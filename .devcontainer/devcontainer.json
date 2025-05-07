@@ -16,7 +16,8 @@
 			"extensions": [
 				"saoudrizwan.claude-dev",
 				"coolcline.coolcline",
-				"RooVeterinaryInc.roo-cline"
+				"RooVeterinaryInc.roo-cline",
+				"GitHub.copilot"
 			]
 		}
 	}
